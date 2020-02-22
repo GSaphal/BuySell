@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/BuySell/static/js/main.0e26dbba.chunk.js",
-    "main.js.map": "/BuySell/static/js/main.0e26dbba.chunk.js.map",
+    "main.js": "/BuySell/static/js/main.29a3e33c.chunk.js",
+    "main.js.map": "/BuySell/static/js/main.29a3e33c.chunk.js.map",
     "runtime-main.js": "/BuySell/static/js/runtime-main.fd47ed3b.js",
     "runtime-main.js.map": "/BuySell/static/js/runtime-main.fd47ed3b.js.map",
     "static/js/2.76419414.chunk.js": "/BuySell/static/js/2.76419414.chunk.js",
     "static/js/2.76419414.chunk.js.map": "/BuySell/static/js/2.76419414.chunk.js.map",
     "index.html": "/BuySell/index.html",
-    "precache-manifest.456acfc6b7549a6861e8d3898945bc17.js": "/BuySell/precache-manifest.456acfc6b7549a6861e8d3898945bc17.js",
+    "precache-manifest.9fb1d8683ac52c4d19644a3460d486a7.js": "/BuySell/precache-manifest.9fb1d8683ac52c4d19644a3460d486a7.js",
     "service-worker.js": "/BuySell/service-worker.js",
     "static/js/2.76419414.chunk.js.LICENSE.txt": "/BuySell/static/js/2.76419414.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fd47ed3b.js",
     "static/js/2.76419414.chunk.js",
-    "static/js/main.0e26dbba.chunk.js"
+    "static/js/main.29a3e33c.chunk.js"
   ]
 }
