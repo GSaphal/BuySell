@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/BuySell/static/js/main.b2f2e326.chunk.js",
-    "main.js.map": "/BuySell/static/js/main.b2f2e326.chunk.js.map",
+    "main.js": "/BuySell/static/js/main.0d2a186d.chunk.js",
+    "main.js.map": "/BuySell/static/js/main.0d2a186d.chunk.js.map",
     "runtime-main.js": "/BuySell/static/js/runtime-main.fd47ed3b.js",
     "runtime-main.js.map": "/BuySell/static/js/runtime-main.fd47ed3b.js.map",
-    "static/js/2.76419414.chunk.js": "/BuySell/static/js/2.76419414.chunk.js",
-    "static/js/2.76419414.chunk.js.map": "/BuySell/static/js/2.76419414.chunk.js.map",
+    "static/js/2.fb54941f.chunk.js": "/BuySell/static/js/2.fb54941f.chunk.js",
+    "static/js/2.fb54941f.chunk.js.map": "/BuySell/static/js/2.fb54941f.chunk.js.map",
     "index.html": "/BuySell/index.html",
-    "precache-manifest.febc5d97c973f83ebbeb98e5a3cdb7f1.js": "/BuySell/precache-manifest.febc5d97c973f83ebbeb98e5a3cdb7f1.js",
+    "precache-manifest.81166a543dda05215d82c9406b549937.js": "/BuySell/precache-manifest.81166a543dda05215d82c9406b549937.js",
     "service-worker.js": "/BuySell/service-worker.js",
-    "static/js/2.76419414.chunk.js.LICENSE.txt": "/BuySell/static/js/2.76419414.chunk.js.LICENSE.txt"
+    "static/js/2.fb54941f.chunk.js.LICENSE.txt": "/BuySell/static/js/2.fb54941f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fd47ed3b.js",
-    "static/js/2.76419414.chunk.js",
-    "static/js/main.b2f2e326.chunk.js"
+    "static/js/2.fb54941f.chunk.js",
+    "static/js/main.0d2a186d.chunk.js"
   ]
 }
